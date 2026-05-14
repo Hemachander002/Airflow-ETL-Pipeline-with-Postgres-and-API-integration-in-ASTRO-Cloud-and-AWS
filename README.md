@@ -43,6 +43,9 @@ and then i ran the whole pipeline in the cloud with the help of AWS and ASTRONOM
 <img width="1915" height="994" alt="Screenshot 2026-05-14 141042" src="https://github.com/user-attachments/assets/69c3c62f-8fe8-4544-8834-3e28f9a26a7f" />
 first few triggers werent working coz of my mistake which is i ran the AWS DB instance in the private server
 
+<img width="1919" height="1079" alt="cloud connection successful" src="https://github.com/user-attachments/assets/9a3bd6f0-e83e-4e65-b75a-8c6d68e51422" />
+
+
 
 
 
